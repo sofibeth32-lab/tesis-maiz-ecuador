@@ -1,0 +1,14 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credenciales: la clave del USDA va en una variable de entorno, nunca en el repositorio
+.env
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
